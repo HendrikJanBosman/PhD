@@ -9,7 +9,7 @@ annot.pdf: My research notes and annotations on the clause hierarchies in Lament
 
 ## Data:
 
-threni_hjb.19.01.06.mql: My Emdros /MQL database of Lamentations (based on the ETCBC database).
+threni_hjb.19.01.06.mql: My Emdros /MQL database of Lamentations (based on the ETCBC database). Requires Emdros to be queried.
 
-lbl.zip: MQL files, defining descriptive linguistic labels.
+lbl.zip: MQL files, defining descriptive linguistic labels. Designed to be processed by my Emdros-based program labelman, but human-readable for those familiar with the MQL query language.
 
