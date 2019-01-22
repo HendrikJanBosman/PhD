@@ -1,5 +1,5 @@
 # PhD
-Background documentation and data files to my PhD thesis, 'Prosodic Influence on the Text Syntax of Lamentations'
+Background documentation and data files to my PhD thesis, '*Prosodic Influence on the Text Syntax of Lamentations*'. The Python sources of my programs `labelman`, `unitman` and `cp2unt` will be posted here shortly (I am still in the process of making them presentable).
 
 ## Documentation:
 
