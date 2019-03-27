@@ -1,5 +1,5 @@
 # PhD
-Background documentation and data files to my PhD thesis, '*Prosodic Influence on the Text Syntax of Lamentations*'. The Python sources of my programs `labelman`, `unitman` and `cp2unt` will be posted here shortly (I am still in the process of making them presentable).
+Background documentation and data files to my PhD thesis, '*Prosodic Influence on the Text Syntax of Lamentations*' (the dissertation itself is accessible at http://dx.doi.org/10.5281/zenodo.2611150). The Python sources of my programs `labelman` and `unitman`can be found in `HendrikJanBosman/emdrosapp_src`.
 
 ## Documentation:
 
